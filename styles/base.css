@@ -72,11 +72,11 @@ a {
     color: #004065;
 }
 
-#when_and_where, #about, #info {
+#when_and_where, #about, #info, #events {
     width: 90%;
 }
 
-#when_and_where h2, #about h2, #info h2 {
+#when_and_where h2, #about h2, #info h2, #events h2 {
  border-bottom: 1px solid #76A1DA;
  color: #210774;
  font-size: 1.3em;
